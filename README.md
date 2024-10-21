@@ -1,8 +1,13 @@
 Name:Stuti Anuva Nayak
+
 Company:CODTECH IT SOLUTIONS
+
 ID:CT08DS8812
+
 Domain:Android Development
+
 Duration: October to November 2024
+
 Mentor:Neela Santhosh head
 
 Overview of the Project
