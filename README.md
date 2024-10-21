@@ -10,7 +10,7 @@ Overview of the Project
 Project:Create a simple to-do list app where users can add tasks, mark them as complete, and
 delete them.
 
-Objective
+Objective:
 To create an intuitive to-do list application that could be used to add tasks, mark some as complete, and delete others, we could extend the preceding code to add the functionality to mark as complete. In this version of the application:
 1)Tasks can be added.
 2)Tasks can be marked as complete, which will strike through the task. Tasks can be deleted.
